@@ -1,7 +1,23 @@
-fastapi
-uvicorn
-pandas
-matplotlib
-requests
-beautifulsoup4
-pydantic
+# --- Módulo 05: Web Back-end & API ---
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.2
+email-validator==2.1.0.post1
+
+# --- Módulo 02: Visualização de Dados & Ciência de Dados ---
+pandas==2.1.3
+matplotlib==3.8.2
+
+# --- Módulo 04: RPA & Web Scraping ---
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# --- Módulo 03: Computação Distribuída & Background Tasks ---
+celery==5.3.6
+redis==5.0.1
+
+# --- Qualidade e Testes (QA) ---
+pytest==7.4.3
+
+# --- Servidor de Arquivos Estáticos (Opcional para o Dashboard) ---
+aiofiles==23.2.1
