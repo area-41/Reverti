@@ -65,4 +65,4 @@ def test_ordenacao_residuos():
 
 
 def test_estatisticas_vazias():
-    """Simula o cálculo de estatísticas"""
+    """Executa o cálculo de estatísticas"""
